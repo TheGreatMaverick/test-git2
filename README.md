@@ -3,3 +3,6 @@
 3. git commit -m "comment"
 4. git log (инфа о коммите)/ git log --oneline(краткая инфа)
 5. git push (rep_link) (branch_name)
+6. git reset (file_name) (удаляет файлы из промежуточной области stage)
+7. git diff (отображает изменения - удаление и добавление)/ git diff (file_name) - отображает изменения в конкретном файле
+8. git reset --hard (возвращает все изменения и очищает гит-статус)
